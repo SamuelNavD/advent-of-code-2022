@@ -8,7 +8,8 @@
   "license": "GNU",
   "private": true,
   "scripts": {
-    "day-1": "nodemon -e ts -x ts-node day-1/index.ts"
+    "day-1": "nodemon -e ts -x ts-node day-1/index.ts",
+    "day-2": "nodemon -e ts -x ts-node day-2/index.ts"
   },
   "devDependencies": {
     "@types/node": "^18.11.10",
