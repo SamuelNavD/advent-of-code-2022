@@ -10,7 +10,8 @@
   "scripts": {
     "day-1": "nodemon -e ts -x ts-node day-1/index.ts",
     "day-2": "nodemon -e ts -x ts-node day-2/index.ts",
-    "day-3": "nodemon -e ts -x ts-node day-3/index.ts"
+    "day-3": "nodemon -e ts -x ts-node day-3/index.ts",
+    "day-4": "nodemon -e ts -x ts-node day-4/index.ts"
   },
   "devDependencies": {
     "@types/node": "^18.11.10",
