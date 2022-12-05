@@ -9,6 +9,11 @@
   dependencies:
     "@jridgewell/trace-mapping" "0.3.9"
 
+"@datastructures-js/stack@^3.1.4":
+  version "3.1.4"
+  resolved "https://registry.yarnpkg.com/@datastructures-js/stack/-/stack-3.1.4.tgz#c01d701b2aed1a30d576ef3d503440bb81e4d884"
+  integrity sha512-+2+SOvKcNizQaR31AL1Sox4p5rvAlZfvXO9gi6qWrXMvLqb3S5/3t0ZRAefA0ZabQz0LCXOc8aTeHSWSOMrNCQ==
+
 "@jridgewell/resolve-uri@^3.0.3":
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/@jridgewell/resolve-uri/-/resolve-uri-3.1.0.tgz#2203b118c157721addfe69d47b70465463066d78"
