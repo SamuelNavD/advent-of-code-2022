@@ -16,7 +16,8 @@
     "day-6": "nodemon -e ts -x ts-node day-6/index.ts",
     "day-7": "nodemon -e ts -x ts-node day-7/index.ts",
     "day-8": "nodemon -e ts -x ts-node day-8/index.ts",
-    "day-9": "nodemon -e ts -x ts-node day-9/index.ts"
+    "day-9": "nodemon -e ts -x ts-node day-9/index.ts",
+    "day-10": "nodemon -e ts -x ts-node day-10/index.ts"
   },
   "devDependencies": {
     "@types/node": "^18.11.10",
