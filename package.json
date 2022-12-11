@@ -17,7 +17,8 @@
     "day-7": "nodemon -e ts -x ts-node day-7/index.ts",
     "day-8": "nodemon -e ts -x ts-node day-8/index.ts",
     "day-9": "nodemon -e ts -x ts-node day-9/index.ts",
-    "day-10": "nodemon -e ts -x ts-node day-10/index.ts"
+    "day-10": "nodemon -e ts -x ts-node day-10/index.ts",
+    "day-11": "nodemon -e ts -x ts-node day-11/index.ts"
   },
   "devDependencies": {
     "@types/node": "^18.11.10",
@@ -25,6 +26,7 @@
     "typescript": "^4.9.3"
   },
   "dependencies": {
+    "@datastructures-js/queue": "^4.2.3",
     "@datastructures-js/stack": "^3.1.4"
   }
 }

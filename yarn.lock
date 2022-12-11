@@ -9,6 +9,11 @@
   dependencies:
     "@jridgewell/trace-mapping" "0.3.9"
 
+"@datastructures-js/queue@^4.2.3":
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/@datastructures-js/queue/-/queue-4.2.3.tgz#a63b155e2c1634c9b9d8fcd83969c7b3e143dff7"
+  integrity sha512-GWVMorC/xi2V2ta+Z/CPgPGHL2ZJozcj48g7y2nIX5GIGZGRrbShSHgvMViJwHJurUzJYOdIdRZnWDRrROFwJA==
+
 "@datastructures-js/stack@^3.1.4":
   version "3.1.4"
   resolved "https://registry.yarnpkg.com/@datastructures-js/stack/-/stack-3.1.4.tgz#c01d701b2aed1a30d576ef3d503440bb81e4d884"
